@@ -14,19 +14,19 @@
 
 ### Backtesting Method  
 
-- [ ] 개념조사 및 정리
+- [x] 포괄적인 개념조사 및 정리
 
-- [ ] 패키지 zipline 사용방법 digging
+- [x] <s>패키지 zipline 사용방법 digging</s>s
 
 [	zipline](<https://wikidocs.net/2874>)   
 
-- [ ] 이외 method들  
+- [ ] backtesting.py 해보면서 익혀야함         
 
-
+- [ ] 계속공부   
 
 ### WANN
 
-- [ ] 관련논문 읽고정리  
+- [ ] 관련논문 읽고정리    
 
 - [ ] github 코드 튜토리얼    
 
